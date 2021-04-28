@@ -1,7 +1,15 @@
-git commit
+$ git init
 
-git status
+$ git status
 
-git changes
+$ git add meal-regimens.txt
 
-git helloworl
+$ git commit -m "Meal Guidelines"
+
+$ git add meal-regimens.txt
+
+$ git status
+
+$ git commit -m  "Meal Guidelines (Updated)"
+
+$ git log
