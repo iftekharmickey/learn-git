@@ -4,7 +4,7 @@ git checkout -- oven-bird.txt
 
 git diff fire-and-ice.txt
 
-git add.
+git add .
 
 git reset HEAD fire-and-ice.txt
 
