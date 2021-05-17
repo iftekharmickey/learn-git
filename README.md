@@ -1,7 +1,7 @@
-# Codecademy
+# Learn Git
 
-Following courses from which I have completed the projects:
+<a href="https://www.codecademy.com" target="_blank"><img src="https://github.com/Codecademy/learn-cpp/blob/master/logo.png" align="right" width=170;></a>
 
-1. Learn Git: https://www.codecademy.com/learn/learn-git
-2. Introduction To Cybersecurity: https://www.codecademy.com/learn/introduction-to-cybersecurity
+## Course Link ##
 
+https://www.codecademy.com/learn/learn-git
